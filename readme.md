@@ -8,7 +8,15 @@ I hope you find those projects useful if you're a beginner frontend developer, a
 
 ## Projects
 
-> Day 01
+### Day 01: marqeta
 
-    - [Day 01: Code](/tree/main/Day_01)
-    - [Day 01: Preview](/tree/main/Day_01)
+> Title
+
+    MARQETA - Trusted Payments Solution
+
+> Description
+
+    The marqeta platform lets you develop and launch innovative, global and trusted payments solutions at unprecedented speed
+
+- Browse the source code [here](/tree/main/Day_01)
+- Live website preview [here](/tree/main/Day_01)
