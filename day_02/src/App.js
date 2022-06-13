@@ -17,7 +17,7 @@ const App = () => {
     console.log( data );
     return (
         <header>
-            <Details data={ data } nextItem={ nextItem } prevItem={ prevItem } />
+            <Details data={ data } nextItem={ nextItem } prevItem={ prevItem } item={ item } />
             <Cover data={ data } nextItem={ nextItem } prevItem={ prevItem } />
         </header>
     )

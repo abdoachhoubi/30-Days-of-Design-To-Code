@@ -1,14 +1,14 @@
 import React from "react";
 import { NavBar, Banner, Thumbnail, DetailsCard } from "../../components";
 
-const Details = ({ data, nextItem, prevItem }) => {
+const Details = ({ data, item }) => {
   return (
     <section className="details">
       <NavBar />
       <Banner data={data} />
       <section className="details__assets">
-        <Thumbnail />
-        <DetailsCard />
+        <Thumbnail data={data} />
+        <DetailsCard data={data} item={item} />
       </section>
     </section>
   );
