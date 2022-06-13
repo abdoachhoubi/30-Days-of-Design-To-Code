@@ -1,6 +1,6 @@
 import React from 'react';
-import { NavBar, Banner } from "./components";
 import "./style.css";
+import { NavBar, Banner } from "./components";
 
 const App = () => {
     return (

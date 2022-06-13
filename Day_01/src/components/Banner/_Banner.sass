@@ -1,0 +1,68 @@
+.banner
+    width: 100%
+    padding: 2rem
+    display: flex
+    flex-direction: column
+    align-items: center
+    @media screen and ( max-width: 800px)
+        padding: 1rem
+    .banner__heading
+        text-align: center
+        font-size: 2rem
+        color: $color__violet
+        margin-bottom: 1.5rem
+    .banner__subheading
+        width: 50%
+        text-align: center
+        margin-bottom: 1rem
+        @media screen and ( max-width: 800px)
+            width: 100%
+    .banner__features
+        margin-top: 2rem
+        width: 100%
+        display: flex
+        align-items: center
+        justify-content: space-between
+        @media screen and ( max-width: 800px)
+            flex-direction: column
+            margin-top: 0
+    .banner__features__list
+        display: flex
+        flex-direction: column
+        width: 50%
+        @media screen and ( max-width: 800px)
+            width: 100%
+    .banner__image
+        width: 50%
+        height: 30rem
+        position: relative
+        @media screen and ( max-width: 800px)
+            width: 100%
+            height: 24rem
+        .img__card
+            height: 10rem
+            width: auto
+            position: absolute
+            @media screen and ( max-width: 800px)
+                height: 8rem
+        .green__card
+            top: 5rem
+            right: 5rem
+            z-index: 3
+            @media screen and ( max-width: 800px)
+                top: 3rem
+                right: 1rem
+        .transparent__card
+            top: 10rem
+            left: calc(50% - 8.75rem)
+            z-index: 2
+            @media screen and ( max-width: 800px)
+                top: 8rem
+                left: calc(50% - 7rem)
+        .violet__card
+            bottom: 5rem
+            left: 5rem
+            z-index: 1
+            @media screen and ( max-width: 800px)
+                bottom: 3rem
+                left: 1rem
