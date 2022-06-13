@@ -10,7 +10,7 @@ I hope you find those projects useful if you're a beginner frontend developer, a
 
 ### Day 01: Marqeta
 
-<img src="./day_01/design/desktop.png" />
+<img src="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/blob/main/Day_01/design/desktop.png?raw=true" />
 
 - Browse the source code <a href="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/tree/main/Day_01">here</a>
 - Live website preview <a href="/tree/main/Day_01">here</a>
