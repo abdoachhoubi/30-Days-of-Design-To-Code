@@ -17,4 +17,15 @@ I hope you find those projects useful if you're a beginner frontend developer, a
 - Browse the source code <a href="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/tree/main/Day_01">here</a>
 - Live website preview <a href="https://marqeta.vercel.app" target="_blank">here</a>
 
-Inspired from [Marqeta Stacked Cards](https://dribbble.com/shots/14508322-Marqeta-Stacked-Cards) by [Clay: UI/UX Design Agency](https://dribbble.com/clayglobal) on [Dribbble](https://dribbble.com/)
+Inspired by [Marqeta Stacked Cards](https://dribbble.com/shots/14508322-Marqeta-Stacked-Cards) by [Clay: UI/UX Design Agency](https://dribbble.com/clayglobal) on [Dribbble](https://dribbble.com/)
+
+### Day 02: Lopez Rivera
+
+<a href="https://lopezrivera.vercel.app" target="_blank">
+<img src="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/blob/main/day_02/design/desktop.png?raw=true" />
+</a>
+
+- Browse the source code <a href="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/tree/main/day_02">here</a>
+- Live website preview <a href="https://lopezrivera.vercel.app" target="_blank">here</a>
+
+Inspired by [Typography UI — Project 23](https://dribbble.com/shots/5083142-Typography-UI-Project-23) by [Juraj Masar](https://dribbble.com/jurajmasar) on [Dribbble](https://dribbble.com/)
