@@ -10,9 +10,11 @@ I hope you find those projects useful if you're a beginner frontend developer, a
 
 ### Day 01: Marqeta
 
+<a href="https://marqeta.vercel.app" target="_blank">
 <img src="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/blob/main/Day_01/design/desktop.png?raw=true" />
+</a>
 
 - Browse the source code <a href="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/tree/main/Day_01">here</a>
-- Live website preview <a href="/tree/main/Day_01">here</a>
+- Live website preview <a href="https://marqeta.vercel.app" target="_blank">here</a>
 
 Inspired from [Marqeta Stacked Cards](https://dribbble.com/shots/14508322-Marqeta-Stacked-Cards) by [Clay: UI/UX Design Agency](https://dribbble.com/clayglobal) on [Dribbble](https://dribbble.com/)
