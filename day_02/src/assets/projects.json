@@ -1,0 +1,41 @@
+[
+  {
+    "key": "0402AIR",
+    "title": "Hotel Aire de Bardenas",
+    "image_cover": "https://lopez-rivera.com/wp-content/uploads/2007/03/0402air_hotel_aire_de_bardenas_lopez-rivera_jhext13-1620x1080.jpg",
+    "video_cover": "https://lopez-rivera.com/wp-content/uploads/2007/03/0402air_hotel_aire_de_bardenas_lopez-rivera_jh42-1636x1080.jpg",
+    "details": [
+      "Tudela, Navarra",
+      "2004 — 2007",
+      "1.500 m2",
+      "Photos by José Hevia"
+    ]
+  },
+  {
+    "key": "1304PGT",
+    "title": "Shop and Offices for Pedro García",
+    "image_cover": "https://lopez-rivera.com/wp-content/uploads/2018/03/1304pgt_tienda-madrid-pedro-garcia_lopez-rivera_jh07-737x1080.jpg",
+    "video_cover": "https://lopez-rivera.com/wp-content/uploads/2018/03/1304pgt_tienda-madrid-pedro-garcia_lopez-rivera_jh14-1629x1080.jpg",
+    "details": ["Madrid", "2013", "120 m2", "Photos by José Hevia"]
+  },
+  {
+    "key": "0304SAN",
+    "title": "Social Housing for Young People",
+    "image_cover": "https://lopez-rivera.com/wp-content/uploads/2018/03/0304san_viviendas-sant-andreu_lopez-rivera_jh16-720x1080.jpg",
+    "video_cover": "https://lopez-rivera.com/wp-content/uploads/2018/03/0304san_viviendas-sant-andreu_lopez-rivera_jh20-1623x1080.jpg",
+    "details": ["Barcelona", "2003 — 2007", "2.550 m2", "Photos by José Hevia"]
+  },
+  {
+    "key": "1001POR",
+    "title": "House in El Port de la Selva",
+    "image_cover": "https://lopez-rivera.com/wp-content/uploads/2018/03/1001por_casa-port-de-la-selva_lopez-rivera_jj56-691x1080.jpg",
+    "video_cover": "https://lopez-rivera.com/wp-content/uploads/2018/03/1001por_casa-port-de-la-selva_lopez-rivera_jj54-1559x1080.jpg",
+    "details": [
+      "Port de la Selva, Girona",
+      "2010 — 2012",
+      "210 m2",
+      "Photos by José Hevia",
+      "Photos by Juande Jarrillo"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;300;400;600;700;800&display=swap')
+
+*
+    padding: 0
+    margin: 0
+    box-sizing: border-box
+    cursor: default
+
+body
+    width: 100%
+    height: fit-content
+    font-family: 'Noto Sans', sans-serif
+
+header
+    width: 100%
+    height: 100vh
+    display: flex
+    @media screen and ( max-width: 800px )
+        flex-direction: column
+
+@import ./containers/Cover/_Cover
+@import ./containers/Details/_Details
+@import ./components/Banner/_Banner
+@import ./components/BottomNav/_BottomNav
+@import ./components/Cover/_Cover
+@import ./components/DetailsCard/_DetailsCard
+@import ./components/NavBar/_NavBar
+@import ./components/SideBar/_SideBar
+@import ./components/Thumbnail/_Thumbnail
