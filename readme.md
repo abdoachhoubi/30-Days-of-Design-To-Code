@@ -8,15 +8,11 @@ I hope you find those projects useful if you're a beginner frontend developer, a
 
 ## Projects
 
-### Day 01: marqeta
+### Day 01: Marqeta
 
-> Title
-
-    MARQETA - Trusted Payments Solution
-
-> Description
-
-    The marqeta platform lets you develop and launch innovative, global and trusted payments solutions at unprecedented speed
+<img src="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/tree/main/Day_01/design/desktop.png" />
 
 - Browse the source code <a href="https://github.com/abdoachhoubi/30-Days-of-Design-To-Code/tree/main/Day_01">here</a>
 - Live website preview <a href="/tree/main/Day_01">here</a>
+
+Inspired from [Marqeta Stacked Cards](https://dribbble.com/shots/14508322-Marqeta-Stacked-Cards) by [Clay: UI/UX Design Agency](https://dribbble.com/clayglobal) on [Dribbble](https://dribbble.com/)
