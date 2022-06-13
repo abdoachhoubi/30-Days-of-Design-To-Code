@@ -4,7 +4,7 @@ import { Menu, X } from "react-feather";
 
 const variants = {
   in: { y: "0", opacity: 1 },
-  out: { y: "-70vh", opacity: 0 },
+  out: { y: "-60vh", opacity: 0 },
 };
 
 const NavBar = () => {

@@ -29,8 +29,9 @@ nav
     top: 0
     right: 50vw
     width: 20vw
-    height: 70vh
-    background-color: $color__primary
+    height: 60vh
+    background-color: #0a0a0aa2
+    backdrop-filter: blur(4px)
     z-index: 1000
     display: flex
     flex-direction: column
@@ -54,3 +55,9 @@ nav
             cursor: pointer
             &:not(:last-child)
                 margin-bottom: 2rem
+    @media screen and ( max-width: 800px )
+        position: fixed
+        top: 0
+        right: 0vw
+        width: 100vw
+        height: 60vh
