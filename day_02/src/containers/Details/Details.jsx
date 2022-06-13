@@ -1,11 +1,11 @@
 import React from "react";
 import { NavBar, Banner, Thumbnail, DetailsCard } from "../../components";
 
-const Details = () => {
+const Details = ({ data, nextItem, prevItem }) => {
   return (
     <section className="details">
       <NavBar />
-      <Banner />
+      <Banner data={data} />
       <section className="details__assets">
         <Thumbnail />
         <DetailsCard />

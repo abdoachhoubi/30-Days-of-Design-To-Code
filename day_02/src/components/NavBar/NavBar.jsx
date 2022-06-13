@@ -27,6 +27,7 @@ const NavBar = () => {
         variants={variants}
         animate={slide ? "in" : "out"}
         className="nav__slider"
+        onMouseLeave={animate}
       >
         <div className="nav__icon" onClick={animate}>
           <p>CLOSE</p>
